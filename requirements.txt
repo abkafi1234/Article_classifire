@@ -8,3 +8,5 @@ tensorflow
 matplotlib
 keras
 scikit-learn==1.1.2
+
+--ignore-installed --upgrade "https://github.com/lakshayg/tensorflow-build/releases/download/tf2.7.0-ubuntu20.04-py3.8.10/tensorflow-2.7.0-cp38-cp38-linux_x86_64.whl" --user

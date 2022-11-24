@@ -7,4 +7,4 @@ streamlit
 tensorflow
 matplotlib
 keras
-scikit-learn
+scikit-learn==1.1.2

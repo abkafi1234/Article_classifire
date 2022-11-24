@@ -16,6 +16,9 @@ from matplotlib import pyplot as plt
 from collections import Counter
 from tensorflow.keras.preprocessing.text import Tokenizer
 from tensorflow.keras.preprocessing.sequence import pad_sequences
+import os
+
+os.environ['KMP_DUPLICATE_LIB_OK'] = 'TRUE'
 
 
 

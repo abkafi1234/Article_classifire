@@ -1,10 +1,10 @@
-nltk==3.7
-openpyxl==3.0.10
-pandas==1.4.4
-pickleshare==0.7.5
-Pillow==9.2.0
+nltk
+openpyxl
+pandas
+pickleshare
+Pillow
 streamlit
-tensorflow==2.6.0
+tensorflow
 matplotlib
-keras==2.6
+keras
 scikit-learn

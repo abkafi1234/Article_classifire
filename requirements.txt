@@ -5,3 +5,4 @@ pickleshare==0.7.5
 Pillow==9.2.0
 streamlit
 tensorflow==2.6.0
+matplotlib

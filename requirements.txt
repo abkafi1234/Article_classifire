@@ -7,3 +7,4 @@ streamlit
 tensorflow==2.6.0
 matplotlib
 keras==2.6
+scikit-learn

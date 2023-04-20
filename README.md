@@ -1,2 +1,4 @@
 # Article_classifire
-trying
+To run this application, install the required packages using requirement.txt
+then
+stremlit run classification.py
